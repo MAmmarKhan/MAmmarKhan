@@ -1,4 +1,4 @@
-### 👋 I'm Ammar Khan (SURGENTFOXY) 
+### <div align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> I'm Ammar Khan (SURGENTFOXY) </div>
 
 ## Connnect with me
   <a href="https://www.linkedin.com/in/ammarkhanfoxy/">
