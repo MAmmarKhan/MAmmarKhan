@@ -3,7 +3,7 @@
 ## About me
 <ul>
   <li>🗣️💬 Talks about AI and NodeJs</li>
-  <li>🧑‍🔬 Working as Research Engineerin Research & Development </li>
+  <li>🧑‍🔬 Working as Research Engineer in Research & Development Department</li>
   <li>❤️😊 I love JS and PYTHON </li>
 </ul>
 
