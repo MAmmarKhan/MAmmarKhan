@@ -25,6 +25,8 @@
     </p>
 </details>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MAmmarKhan  )](https://github.com/anuraghazra/github-readme-stats)
+
 <details>
   <summary><b>📈&nbsp;&nbsp;Framework stats</b></summary>
   <br/>
