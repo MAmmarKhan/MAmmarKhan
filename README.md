@@ -30,6 +30,8 @@
 <details>
   <summary><b>📈&nbsp;&nbsp;Framework stats</b></summary>
   <br/>
-  <p> Todo: Write Frameworks </p>
+  <p> MERN Stack </p>
+  <p> MERN Stack and SQL </p>
+  <p> Django & Flask Stack</p>
 
 </details>
